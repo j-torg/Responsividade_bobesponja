@@ -8,6 +8,12 @@ body{
     grid-template-columns: 100vw;
     margin: 0;
 }
+header{
+    background-image: url('../img/BobArcoIris.jpg'); 
+    background-size: cover;
+    grid-area: banner;
+    height: 140px;
+}
 nav{
     background-color:#d3bbde;
     display: flex;
